@@ -17,3 +17,10 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/terminal.png" />
+
+<br />
+
+### Contato
+
+[<img align="left" alt="Daniel J. Souza | LinkedIn" width="22px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/linkedin.png" />](https://www.linkedin.com/in/daniel-js)
+[<img align="left" alt="Daniel J. Souza | Email" width="22px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/gmail.png" />](mailto:dev.danieljs@gmail.com)

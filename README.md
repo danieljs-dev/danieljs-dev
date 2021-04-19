@@ -17,6 +17,9 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/terminal.png" />
+<img align="left" alt="nodejs" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/nodejs.png" />
+<img align="left" alt="mongodb" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/mongodb.png" />
+<img align="left" alt="sql" width="26px" src="https://github.com/danieljs-dev/danieljs-dev/blob/main/icons/sql.png" />
 
 <br />
 

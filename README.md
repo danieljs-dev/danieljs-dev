@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 🧔 Tenho 24 anos, brasileiro, moro em Taboão da Serra, São Paulo.
-- 👨‍🎓 Atualmente, estudo Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
+- 👨‍🎓 Atualmente sou formado em Desenvolvimento de Software na [Trybe](https://www.betrybe.com/).
 - 👨‍💻 Estou em busca de uma oportunidade de emprego como Desenvolvedor Back-end Júnior.
 
 ### Linguagens e ferramentas
